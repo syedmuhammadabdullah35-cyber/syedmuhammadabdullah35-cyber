@@ -7,7 +7,8 @@
 - 🚀 **Building:** Scalable web applications and exploring AI-driven solutions.
 - 💻 **Core Focus:** Full Stack Development with React, Node.js, and MongoDB.
 - 🎨 **Interests:** Passionate about cinematic photography, painting, and traveling.
-- 🎓 **Education:** Intermediate Science Student & Tech Enthusiast.
+- 🎓 **Education:** Student of Science & Professional Web Development.
+- ⚡ **Any type of website you require—no matter how advanced—can be fully developed 
 
 ---
 
